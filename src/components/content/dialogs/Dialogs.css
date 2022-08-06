@@ -1,0 +1,24 @@
+.Dialogs {
+	background-color: red;
+	max-width: 100%;
+	margin-left: 20px;
+	display: flex;
+	padding: 20px;
+}
+
+.bgc {
+	background-color: #fff;
+	height: 120px;
+	width: 730px;
+}
+
+.mesagge {
+	margin-left: 40px;
+}
+
+.d-active {
+	color: blue;
+}
+.d-no {
+	color: white;
+}

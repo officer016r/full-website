@@ -1,0 +1,23 @@
+.Profile {
+	background-color: red;
+	max-width: 100%;
+	margin-left: 20px;
+	padding: 20px;
+}
+
+.bgc {
+	background-color: #fff;
+	height: 120px;
+	width: 730px;
+}
+
+.ava {
+	margin-top: 20px;
+	width: 100px;
+	background-color: #fff;
+	height: 100px;
+}
+
+.ava-nik-block {
+	display: flex;
+}
